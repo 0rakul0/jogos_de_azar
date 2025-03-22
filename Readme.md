@@ -10,6 +10,7 @@ Com o crescimento das atividades de jogos de azar na internet, é essencial moni
 
 - **Captura de Propagandas:** Coleta e armazenamento de imagens, GIFs e vídeos curtos (até 10 segundos) de propagandas online.
 - **Análise de Conteúdo:** Utilização de redes neurais convolucionais para identificar elementos presentes nas propagandas.
+- **Descrição dos itens:** Após a identificação analisar os itens achados em sequencia e formular uma frase.
 - **Classificação de Risco:** Avaliação do potencial das propagandas promoverem jogos de azar, classificando-as como problemáticas ou não.
 
 ## Tecnologias Utilizadas
